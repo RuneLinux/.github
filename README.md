@@ -21,5 +21,5 @@ Idea description
 Repositories
 
 - [Rune](https://github.com/RuneLinux/rune)
-- [u2connector](github.com/RuneLinux/u2connector)
-- [u2connector-panel](github.com/RuneLinux/u2connector-panel)
+- [u2connector](https://github.com/RuneLinux/u2connector)
+- [u2connector-panel](https://github.com/RuneLinux/u2connector-panel)
