@@ -18,7 +18,8 @@ Idea description
 - [Rune](projects/rune.md)
 - [u2connector](projects/u2connector.md)
 
-Repository
+Repositories
 
-- [Rune]()
-- [u2connector]()
+- [Rune](https://github.com/RuneLinux/rune)
+- [u2connector](github.com/RuneLinux/u2connector)
+- [u2connector-panel](github.com/RuneLinux/u2connector-panel)
