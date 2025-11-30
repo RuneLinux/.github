@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="100" width="100" >
+    <path d="
+    M 10 5
+    l 80 0
+    a 5 5 0 0 1 5 5
+    l 0 80
+    a 5 5 0 0 1 -5 5
+    l -80 0
+    a 5 5 0 0 1 -5 -5
+    l 0 -80
+    a 5 5 0 0 1 5 -5
+    "
+    stroke="white"
+    stroke-width="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="white"
+    />
+
+    <path d="
+    M 20 80
+    l 0 -60
+    a 20 20 0 0 1 0 40
+    l 20 20
+
+    M 60 20
+    l 0 60
+    l 20 0
+    "
+    stroke="black"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+    />
+</svg>
